@@ -1,6 +1,6 @@
 # Texture Synthesis with Self-Attention GANs
 
-This is the repository of a texture synthesis GAN model, enhanced with a self-attention mechanism.
+This is the repository of a texture synthesis GAN model, enhanced with a self-attention mechanism. In "datasets", you can find the original images I used for training. 
 These are some results achieved:
 
 ## Good results
