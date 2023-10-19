@@ -15,6 +15,7 @@ These are some results achieved:
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/fcceaead-e6e5-40b9-836e-eb3332fcd294)
 
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/9c0ae0c2-3ab5-423d-80a7-babbd8d66670)
+![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/07b92ce3-ee68-4409-8dda-4a1fe5ab3a8a)
 
 
 
