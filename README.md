@@ -5,7 +5,7 @@ These are some results achieved:
 
 ## Good results
 
-![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/dotted.png)
+![][./assets/dotted.png]
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/6cf85a4d-4cee-4b38-ae53-69a7260f5b9a)
 
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/766b8735-1fd7-4fe7-9e47-413bf40005e5)
