@@ -25,8 +25,6 @@ These are some results achieved:
 ## Bad results
 Bad results were due to the lack of fine-grained details when cropping the 64x64 square from the 256x256 input image.
 
-![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/fa16e389-f8f7-4536-bef1-2629d800464a)
+
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/1fb5bf68-5aad-4579-aedd-2044f55fdfcb)
-
-![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/681224fb-20a8-4d56-896f-f1fdbf7a9bfa)
-
+![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/6f222f8b-6e3e-4cb6-a849-32e115376304)
