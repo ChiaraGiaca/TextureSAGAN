@@ -5,8 +5,10 @@ These are some results achieved:
 
 ## Good results
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/64427578-cfc9-4853-b641-05fc8b308250)
-![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/53394548-9815-46ac-978d-79206f421daa)
-![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/9ba84436-0b6c-4e1d-8001-6b9757b53739)
+![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/16224d18-1459-4a0e-98ef-72068f6565ea)
+
+![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/766b8735-1fd7-4fe7-9e47-413bf40005e5)
+
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/0417c02f-820b-4875-b238-0763f807628c)
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/b0a405c1-b647-4cb2-945a-0041775e5fd5)
 ![image](https://github.com/ChiaraGiaca/TextureSAGAN/assets/77294126/91607ec9-4467-48af-86d2-f5cc907e264b)
